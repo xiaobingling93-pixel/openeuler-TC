@@ -35,6 +35,7 @@
 | 0020 | S,A | [openEuler源码树与构建树分离策略](oEEP-0020%20openEuler源码树与构建树分离策略.md) | Funda Wang (fundawang at yeah.net) | 2024-10-23 |
 | 0021 | P,I | [openEuler软件包版本监控配置](oEEP-0021%20openEuler软件包版本监控配置.md) | 翟文杰(zwjsec at huawei.com) | 2025-03-10 |
 | 0022 | D,P | [openEuler多版本包管理规范](oEEP-0022%20openEuler多版本包管理规范.md) | 刘恺(kai.liu at windriver.com) | 2025-04-01 |
+| 0023 | D,I | [大型套组软件管理规范](oEEP-0023%20大型套组软件管理规范.md) | Eustace Wang <eusteuc@outlook.com> | 2025-06-04 |
 
 ## oEEP 类型分类：
 - D (Document, 信息整理): 信息梳理形成的文档。此类 oEPP 包含社区索引，指南，规范或其他和 openEuler 相关的信息。
