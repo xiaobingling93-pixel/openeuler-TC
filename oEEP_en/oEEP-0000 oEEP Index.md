@@ -30,6 +30,7 @@ Update_time:    2023-07-31
 | 0015 | P,I | [openEuler Official Virtual Machine Image Release Process](./oEEP-0015%20openEuler%20Official%20Virtual%20Machine%20Image%20Release%20Process.md)| Lu Weijun <wjunlu217@gmail.com>| 2023-10-24 |
 | 0016 | P,I | [Introduction of Branch Keepers to Safeguard Repository Branches](./oEEP-0016%20Introduction%20of%20Branch%20Keepers%20to%20Safeguard%20Repository%20Branches.md)| Cao Zhi <george@openeuler.sh>| 2024-02-08 |
 | 0017 | P,I | [openEuler Software Quality Tiering and Execution Strategy](./oEEP-0017%20openEuler%20Software%20Quality%20Tiering%20and%20Execution%20Strategy.md)| Fan Jiachen <fanjiachen3@huawei.com> | 2023-10-14 |
+| 0025 | D,I | [openEuler Community AI-Assisted Code Contribution Guidelines](./oEEP-0025%20openEuler%20Community%20AI-Assisted%20Code%20Contribution%20Guidelines.md)| Jianmin Wang (hi at jimmie.me) | 2026-02-02 |
 
 ## oEEP Types
 
